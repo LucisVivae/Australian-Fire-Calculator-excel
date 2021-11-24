@@ -11,7 +11,7 @@ Another Excel Spreadsheet for forecasting FIRE and looking at the effect of vari
 7. See impact of private health v. Medicare levy surcharge
 8. Takes into account student loans, Medicare status etc
 9. Calculations show cashflow of expenses
-10. Accounts for the minimum 5% super drawdown post preservation age
+10. Accounts for a minimum average 5% super drawdown post preservation age
 11. See the spreadsheet for all of the options
 
 ## Instructions
